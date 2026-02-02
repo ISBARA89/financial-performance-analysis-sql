@@ -1,4 +1,4 @@
-# Financial Performance Analysis using SQL
+# Financial & Operational Performance Analysis using SQL
 
 ## Project Overview
 This project analyzes sales and cost data for a small business using SQL.
@@ -19,6 +19,14 @@ This project analyzes sales and cost data for a small business using SQL.
 - The 5kg product generated the highest total and average profit per sale.
 - Logistics costs accounted for the largest portion of expenses.
 - Profitability improvement is centered around optimized logistics.
+
+## User Acceptance Testing (UAT)
+As part of the analysis, basic UAT testing was performed to accuracy and alignment with business expectations.
+
+## Activities
+- Designed simple test cases to validate revenue, expense, and profit calculations.
+- Verified query outputs against expected results using SQL.
+- Identified and documents discrepancies for correction.
 
 ## Recommendation
 Management should scale 5kg sales and reduce logistics costs through bulk transportation and negotiation strategies.
